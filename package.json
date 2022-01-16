@@ -15,6 +15,8 @@
     "core-js": "^3.6.5",
     "markdown-it-footnote": "^3.0.3",
     "quasar": "^2.0.0",
+    "showdown": "^1.9.1",
+    "showdown-footnotes": "^2.1.2",
     "vue3-markdown-it": "^1.0.10",
     "vue3-nl2br": "^0.1.5"
   },

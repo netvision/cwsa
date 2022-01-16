@@ -30,6 +30,8 @@ const goToVol = (vol) => {
   router.push('/volume/'+vol)
 }
 
+
+
 onMounted(() => {
   cwsa.value = require('../data/cwsa.json')
   console.log(cwsa.value)
