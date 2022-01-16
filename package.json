@@ -13,7 +13,10 @@
     "@quasar/extras": "^1.0.0",
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
-    "quasar": "^2.0.0"
+    "markdown-it-footnote": "^3.0.3",
+    "quasar": "^2.0.0",
+    "vue3-markdown-it": "^1.0.10",
+    "vue3-nl2br": "^0.1.5"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
